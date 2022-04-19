@@ -193,7 +193,6 @@ section .title::before {
   width: 400px;
   object-fit: cover;
   border-radius: 2%;
-  margin-left: 60px;
   padding: 10px;
 }
 .about .about-content .right {
@@ -228,9 +227,6 @@ section .title::before {
   color: #86090f;
   font-weight: 500;
   background: transparent;
-}
-#madrine {
-  margin-right: 40px;
 }
 /* services section styling */
 .services {
