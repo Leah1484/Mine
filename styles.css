@@ -229,6 +229,9 @@ section .title::before {
   font-weight: 500;
   background: transparent;
 }
+#madrine {
+  margin-right: 20px;
+}
 /* services section styling */
 .services {
   background: #111;
